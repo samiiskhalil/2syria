@@ -1,0 +1,1 @@
+const Place=require('../models/placeModel.js')
