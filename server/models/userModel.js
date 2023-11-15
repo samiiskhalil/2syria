@@ -27,4 +27,4 @@ const userSchema=new mongoose.Schema({
     ,
     placesRated:[{type:mongoose.SchemaTypes.ObjectId,ref:'placeModel'}]
 })
-module.exports=mongoose.model('userModel',userSchema)
+module.exports=mongoose.model('User',userSchema)

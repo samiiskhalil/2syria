@@ -61,6 +61,7 @@ accountVerificationCode.checked=true
         return res.json({success:false,error:'failed checking verification code'})
       }
     }
+    // 2 step verification make app password and the user name is the same email 
     static async sendCode(req,res,next){
       try{
       const {verificationCode}=req.scope

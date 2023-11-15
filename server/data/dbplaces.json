@@ -1,0 +1,492 @@
+[
+  { "name": "Umayyin Square" },
+  { "name": "Damascus Citadel" },
+  { "name": "Al Azem Palace" },
+  { "name": "قبة السيّار (مرصد جبل قاسيون)" },
+  { "name": "Roman ruins Damascus" },
+  { "name": "قوس التترابيل" },
+  { "name": "زقاق المَحمَص" },
+  { "name": "Jupiter Temple" },
+  { "name": "Abbassiyyin Square" },
+  { "name": "Clock Tower" },
+  { "name": "دوار الباسل AL basel square" },
+  { "name": "سبيل الماء" },
+  { "name": "Jabal Badro" },
+  { "name": "ساحة البيري" },
+  { "name": "خان الكتان" },
+  { "name": "برج ألاء Alaa Tower" },
+  { "name": "Al Jalloum الجلوم" },
+  { "name": "بيت صلاحية" },
+  { "name": "Citadel of Homs" },
+  { "name": "Clock of Homs" },
+  { "name": "سيباط ال الجندي" },
+  { "name": "سيباط بيت الأتاسي" },
+  { "name": "Syria,hims,old town" },
+  { "name": "سيباط الدروبي" },
+  { "name": "تمثال السيد الرئيس حافظ الاسد" },
+  { "name": "المغارة" },
+  { "name": "السور الاثري لمدينة حمص" },
+  { "name": "سيباط ابو الخير الجندلي" },
+  { "name": "الناعورة الجعبرية" },
+  { "name": "حي الكيلانية القديم" },
+  { "name": "Overhead chain" },
+  { "name": "Ottoman waterwheel" },
+  { "name": "Khan Rustam Pasha" },
+  { "name": "Weliamm Stark" },
+  { "name": "الزاوية القادرية" },
+  { "name": "ناعورة زور الخريسة" },
+  { "name": "حمام السلطان" },
+  { "name": "نواعير حماه" },
+  { "name": "Bourzey Castle" },
+  { "name": "Almanara Lighthouse (المنارة)" },
+  { "name": "Ugarit Ruins" },
+  { "name": "The old castle of Latakia Port - قلعة المرفأ القديم المدمرة" },
+  { "name": "تل الفاروس الاثري" },
+  { "name": "اللاذقية . البهلولية .القرامة" },
+  { "name": "National Museum" },
+  { "name": "القطربية" },
+  { "name": "I love Lattakia Sign" },
+  { "name": "الشعيب" },
+  { "name": "Old Prison Cells inside Raqqa Sports Stadium" },
+  { "name": "City walls" },
+  { "name": "قصر بنات الرشيد" },
+  { "name": "Dewar Ne'im" },
+  { "name": "دويرة البوسرايا" },
+  { "name": "قصر القحبات" },
+  { "name": "مسجد القديم" },
+  { "name": "المهند" },
+  { "name": "تل العوجة" },
+  { "name": "İdlib Turkıye" },
+  { "name": "ابو الكرم كوكب المريخ" },
+  { "name": "شباب الطب البشري" },
+  { "name": "تل دينيت" },
+  { "name": "Medieval Citadel" },
+  { "name": "هادي خربوطلي" },
+  { "name": "تل النيرب الأثري" },
+  { "name": "أدلب جبل الزاوي شنان" },
+  { "name": "إدلب القديمة" },
+  { "name": "طرطوس القديمة" },
+  { "name": "دوار العلم" },
+  { "name": "معبد عمريت" },
+  { "name": "مزار شيخ محمد المغزلاني" },
+  { "name": "Corniche Tartus" },
+  { "name": "Citadel of Arwad" },
+  { "name": "خطّ البلدوزر" },
+  { "name": "الاحلام" },
+  { "name": "Panorama point" },
+  { "name": "دوار الشهداء" },
+  { "name": "المدينة الرمانية القديمة" },
+  { "name": "لافتيل" },
+  { "name": "The Archeological Amphitheater of Daraa" },
+  { "name": "الجسر المعلق - تل شهاب" },
+  { "name": "محمود البدر" },
+  { "name": "آثار الجيزة القديمة" },
+  { "name": "قرفا القديمة" },
+  { "name": "دار ابو نذير الحريري" },
+  { "name": "النصب التذكاري" },
+  { "name": "دوار الباشا" },
+  { "name": "As Suwayda National Museum" },
+  { "name": "قوس النصر" },
+  { "name": "جبل حوران" },
+  { "name": "وينو" },
+  { "name": "komit alzbali" },
+  { "name": "Al Sharim Pass" },
+  { "name": "Southern gates - البوابات الجنوبية" },
+  { "name": "قصر فيليب العربي" },
+  { "name": "دار عرى" },
+  { "name": "معلد نبو بتدمر" },
+  { "name": "Roman Theater" },
+  { "name": "Funerary Temple" },
+  { "name": "Campatamento de Diocleciano" },
+  { "name": "سر بدني" },
+  { "name": "شارع الوكالات" },
+  { "name": "Gola Emîna" },
+  { "name": "Khaleds Platz" },
+  { "name": "عامر الرمو" },
+  { "name": "Gola Emîna" },
+  { "name": "Qubka cihwan (Dome of the Jews)" },
+  { "name": "دوار عفرين" },
+  { "name": "إبراهيم شويحه😎" },
+  { "name": "ابراهيم شويحة😎" },
+  { "name": "مغارة الكدش" },
+  { "name": "مغارة ام السرج الاثرية" },
+  { "name": "ام السرج" },
+  { "name": "مركز التدريب المهني" },
+  { "name": "خربة الجراد" },
+  { "name": "جبال ( دار دادة )" },
+  { "name": "الطار الاحمر" },
+  { "name": "بيت الحجر الأزرق آل مير" },
+  { "name": "تل صماغ الأثري" },
+  { "name": "مومو هاوس" },
+  { "name": "التل الاثري" },
+  { "name": "قلعة الشماميس" },
+  { "name": "تل علي السعيد العقيدي" },
+  { "name": "وادي اسكفتا الأثري" },
+  { "name": "صخرة فم الأسد" },
+  { "name": "المعبد الآرامي(معبد الهواء الطلق)" },
+  { "name": "Monastery Idriss Sheraab" },
+  { "name": "درب زكي" },
+  { "name": "السرايا" },
+  { "name": "البركة" },
+  { "name": "تلة طيفور" },
+  { "name": "أنا و زين عطريق اللادقية فرحانين و مبسوطين" },
+  { "name": "خان العطنة الأثري" },
+  { "name": "Maart Museum" },
+  { "name": "تل بنصرة" },
+  { "name": "تل ارمنايا" },
+  { "name": "قصر البنات" },
+  { "name": "التل المشحوط 🕺🌚" },
+  { "name": "Ancient Al Bara" },
+  { "name": "هرماس كفرومة" },
+  { "name": "معرسخاتة" },
+  { "name": "قصر حناك" },
+  { "name": "akil mountain" },
+  { "name": "اوظة ابراهيم الخليل" },
+  { "name": "The Citadel of Aleppo" },
+  { "name": "جوبان باي" },
+  { "name": "Victory Gate" },
+  { "name": "باب الحديد" },
+  { "name": "Red Gate" },
+  { "name": "القليعة" },
+  { "name": "Chastel Blanc (Safita Tower)" },
+  { "name": "ضهراليازدية" },
+  { "name": "Safita Park" },
+  { "name": "Hexagonal Tomb" },
+  { "name": "Byzantine Basilica - Palmyra" },
+  { "name": "حمامات زنوبيا -baths of Zanobia" },
+  { "name": "Ruinas de un un gran imperio en Siria" },
+  { "name": "Temple of Bel" },
+  { "name": "Agora" },
+  { "name": "Nostra Casa Restaurant" },
+  { "name": "Pearl Palace" },
+  { "name": "Old House Restaurant" },
+  { "name": "Mazzika Restaurant & lounge" },
+  { "name": "Vinatge Social House" },
+  { "name": "Old Damascus" },
+  { "name": "مطعم اليسار" },
+  { "name": "Bait Fairouz Restaurant" },
+  { "name": "MAZA Restaurant" },
+  { "name": "Sevan Restaurant" },
+  { "name": "Rajeen Resturant مطعم راجعين - حلب" },
+  { "name": "Wanes" },
+  { "name": "Olympia Restaurant" },
+  { "name": "مأكولات ابو جاك" },
+  { "name": "Slav Restaurants" },
+  { "name": "ندوة الشهباء الجديدة" },
+  { "name": "Pasta Bar_aleppo" },
+  { "name": "Turtles" },
+  { "name": "turquoise - تركواز" },
+  { "name": "مطعم قمر حلب" },
+  { "name": "معجنات المهباني" },
+  { "name": "SAWA" },
+  { "name": "مطعم و صالة الطارق" },
+  { "name": "La Vie" },
+  { "name": "بيتزا ميلانو" },
+  { "name": "Al-hashemy" },
+  { "name": "Al-Bostan Restaurant" },
+  { "name": "مطعم ابو مرعي" },
+  { "name": "Toshka Paradise" },
+  { "name": "مطعم الدوار" },
+  { "name": "كوكتيل أبو حلمي" },
+  { "name": "مطعم الروضة" },
+  { "name": "مطعم الرومي" },
+  { "name": "Slice سلايس تشكن" },
+  { "name": "Orntos Restaurant" },
+  { "name": "مطعم بيت ورد" },
+  { "name": "ريفر - River" },
+  { "name": "سناك تكة" },
+  { "name": "Elite resturant مقهى ومطعم ايليت" },
+  { "name": "Pizza Rami" },
+  { "name": "دونالد" },
+  { "name": "Somar Restaurant" },
+  { "name": "مطعم كسابيلا" },
+  { "name": "Bayt qrunfol" },
+  { "name": "The View" },
+  { "name": "Alasaaviri Restaurant" },
+  { "name": "مطعم باب توما" },
+  { "name": "Al Dar" },
+  { "name": "مطعم الجسر القديم" },
+  { "name": "مطعم ابوالحارث" },
+  { "name": "مطعم وكافيه كاراميل" },
+  { "name": "Judy Restaurant" },
+  { "name": "Alhadhara Restaurant" },
+  { "name": "Chicken Restaurant Alquaoouk" },
+  { "name": "Hamid Restaurant" },
+  { "name": "Quick meal" },
+  { "name": "مطعم السلمو" },
+  { "name": "Golden meal" },
+  { "name": "Mr. Pizza/ مستر بيتزا" },
+  { "name": "مطعم دجاجاتي" },
+  { "name": "مطعم اهل الكرم" },
+  { "name": "بوظة ملس الاصلية" },
+  { "name": "Family Club" },
+  { "name": "albaik restaurant" },
+  { "name": "مطعم البارودي" },
+  { "name": "مطعم الأندلس" },
+  { "name": "مطعم العبجي" },
+  { "name": "كريسبي ميل" },
+  { "name": "مطعم السعد" },
+  { "name": "مطعم بيتي" },
+  { "name": "مطعم ابن البلد" },
+  { "name": "Swan Rest" },
+  { "name": "بول دور بيتزا" },
+  { "name": "Galaxy Restaurant" },
+  { "name": "بول دور بروستد" },
+  { "name": "مطعم النبيل" },
+  { "name": "مطعم وكافيه فيو View" },
+  { "name": "مطعم و ملحمة جديد - ابو صلاح" },
+  { "name": "Hawaii Restaurant & Cafe" },
+  { "name": "Al-Menshieh" },
+  { "name": "Rotana food" },
+  { "name": "مطعم حميد للكرسبي" },
+  { "name": "النادي الإجتماعي" },
+  { "name": "الجيش 1" },
+  { "name": "درعا للانترنيت" },
+  { "name": "بانوراما كافيه" },
+  { "name": "درعا" },
+  { "name": "Belagio suwaida resort" },
+  { "name": "Cloud Resturant" },
+  { "name": "Cello" },
+  { "name": "Latinos Snacks & Coffee" },
+  { "name": "Mijana Family Restaurant" },
+  { "name": "Taxi Grill resturant" },
+  { "name": "مطعم أوبرا العائلي" },
+  { "name": "مطعم الجواد" },
+  { "name": "مطعم وسناك \"المعلم\"" },
+  { "name": "Pizza Roma" },
+  { "name": "Zenobia Cham Palace Hotel" },
+  { "name": "مطعم واستراحة ابو علي . تدمر" },
+  { "name": "داما روز" },
+  { "name": "صالة زانا للأفراح" },
+  { "name": "Palace Restaurant" },
+  { "name": "مطعم فيلا Resturant VELA" },
+  { "name": "مطعم سعيد باطوشي" },
+  { "name": "IBAR Restaurant" },
+  { "name": "محمدزكي للعسل" },
+  { "name": "هلوش للكيمر و العسل" },
+  { "name": "Ghazali Restaurant" },
+  { "name": "مطعم سيمونيدس" },
+  { "name": "منبج" },
+  { "name": "نابلسية ابو علي" },
+  { "name": "فطائر سروجي الفرع الاول" },
+  { "name": "مطعم الكنج" },
+  { "name": "مأكولات شاميّة" },
+  { "name": "مطعم جرابلس" },
+  { "name": "مطعم الصناعة" },
+  { "name": "مطعم الدمشقي" },
+  { "name": "بن محب" },
+  { "name": "مقهى الامين للانترنت" },
+  { "name": "مسبح ومطعم النخيل" },
+  { "name": "Sirop-مطعم ومقهى سيروب" },
+  { "name": "Sawa Rbina (مسبح و مطعم سوا ربينا)" },
+  { "name": "Switch food" },
+  { "name": "Burger House" },
+  { "name": "Janet Blodan Resturant" },
+  { "name": "Mashrabia resturant" },
+  { "name": "Manwela Resturant" },
+  { "name": "Al-mukhtar resturant" },
+  { "name": "City Of Hope Restaurant" },
+  { "name": "Bloudan Gate Restaurant" },
+  { "name": "Aurabydina" },
+  { "name": "CARBON LOUNGE & RESTAURANT" },
+  { "name": "Dabab Resturant" },
+  { "name": "Ma`arat al-Nu`man" },
+  { "name": "مطعم هراتش - Hratch restaurant" },
+  { "name": "Tali Restourant" },
+  { "name": "قمة تشالما" },
+  { "name": "مطعم الأطلال" },
+  { "name": "Vally cafe" },
+  { "name": "استراحة الزهراء" },
+  { "name": "مطعم جوهرة الريف" },
+  { "name": "Arabica Al Wadi Resturant" },
+  { "name": "Türkiye Elbab" },
+  { "name": "مطعم بيرويا Beroea Restaurant" },
+  { "name": "Cantara" },
+  { "name": "Grand Station Restaurant" },
+  { "name": "Al Bab" },
+  { "name": "Bath, restaurant and cafeteria door red" },
+  { "name": "Haretna" },
+  { "name": "الزورق" },
+  { "name": "Saifo Restaurant" },
+  { "name": "مطعم برج صافيتا _ Al Bourj Rest" },
+  { "name": "Al Reef Restaurant" },
+  { "name": "مجمع القناطر" },
+  { "name": "مطعم المفرق" },
+  { "name": "مطعم أبو أمجد" },
+  { "name": "Bohemea Art Cafe" },
+  { "name": "tenda beduina" },
+  { "name": "الشارع المستقيم" },
+  { "name": "Souk Medhat Pasha" },
+  { "name": "مجنونة سفل التلة درج الورد" },
+  { "name": "AL Jahez Park" },
+  { "name": "Sibky Park" },
+  { "name": "نصب التلغراف" },
+  { "name": "Al Buzuriyah Souq" },
+  { "name": "National Museum of Syria" },
+  { "name": "AlFaraj Gate" },
+  { "name": "غدير مرّ من هما" },
+  { "name": "Aleppo" },
+  { "name": "حلب" },
+  { "name": "تلة السودا" },
+  { "name": "I love aleppo" },
+  { "name": "زاوية المسبح" },
+  { "name": "(Aleppo temple (temple of Hadad" },
+  { "name": "قصر انطون الطرابلسي" },
+  { "name": "حمص وادي الذهب" },
+  { "name": "القرابيص" },
+  { "name": "سور مدينة حمص الاثري" },
+  { "name": "Homs Museum" },
+  { "name": "السور الغربي الاثري لمدينة حمص القديمة" },
+  { "name": "Waterwheel surprising" },
+  { "name": "Hama Castle" },
+  { "name": "دوار الوخم" },
+  { "name": "كافتريا أنتيكا حماه" },
+  { "name": "حماه المصافي" },
+  { "name": "Borj hama" },
+  { "name": "ساحة الزيغا" },
+  { "name": "شاطئ اللاذقية" },
+  { "name": "قعدة" },
+  { "name": "عَ السكة" },
+  { "name": "الجسر الازرق" },
+  { "name": "Mahalibeh Castle" },
+  { "name": "Sky bike syria" },
+  { "name": "Afamia Hotel Resort" },
+  { "name": "مقبر دير الزور" },
+  { "name": "Deir ez-Zor Airport" },
+  { "name": "نهر الفرات -الرقة" },
+  { "name": "سور الرقة الأثري" },
+  { "name": "سور الرقة الأثري" },
+  { "name": "باب بغداد" },
+  { "name": "تل الرمان" },
+  { "name": "مسبح البيطار" },
+  { "name": "Great companion Abu Dhar al-Ghafari mosque" },
+  { "name": "Idlib, Syria" },
+  { "name": "ادلب" },
+  { "name": "إدلب سوريا" },
+  { "name": "طريق الفيلات ناعورة" },
+  { "name": "سوريا ادلب" },
+  { "name": "جانب من كورنيش طرطوس" },
+  { "name": "Al Basel Park" },
+  { "name": "دوار القسم" },
+  { "name": "Tartus Museum" },
+  { "name": "جزيرة ارواد" },
+  { "name": "طرطوس" },
+  { "name": "Castle roe" },
+  { "name": "skya tower" },
+  { "name": "درعا البلد" },
+  { "name": "Tell al-Achari" },
+  { "name": "Old As-Suwayda" },
+  { "name": "As Suwayda" },
+  { "name": "Helios Temple" },
+  { "name": "Qalaat Fakhr ad-Din al-Maani" },
+  { "name": "Palmyra Airport" },
+  { "name": "مسرح تدمر" },
+  { "name": "صنم هبل في القامشلي" },
+  { "name": "Qamishli" },
+  { "name": "Binahi" },
+  { "name": "سوريا القامشلي" },
+  { "name": "Mizgefta Hilêliyê ya mezin" },
+  { "name": "Mala hesen" },
+  { "name": "السبع بحرات" },
+  { "name": "قبب بنبة" },
+  { "name": "َمنبج" },
+  { "name": "حي الكتاب - منبج" },
+  { "name": "مسبح عبير الروح" },
+  { "name": "Al-Salamiyah" },
+  { "name": "غابات ضهر القصير شين" },
+  { "name": "Saladin Citadel" },
+  { "name": "Yabrud" },
+  { "name": "Deir Mar Musa el-Habashi" },
+  { "name": "Umayyad Masjid" },
+  { "name": "Convent of Our Lady of Sednaya" },
+  { "name": "Yabrud" },
+  { "name": "Monastero Saint Takla - Maaloula (Siria)" },
+  { "name": "The Cathedral of St. Simeon Stylite" },
+  { "name": "Ruins of Palmyra" },
+  { "name": "Palmyra" },
+  { "name": "Tomb of Haffse" },
+  { "name": "H-GROUP" },
+  { "name": "Sayyidah Ruqayya Shrine" },
+  { "name": "مدفن ال حيدر أحمد" },
+  { "name": "The Umayyad Mosque" },
+  { "name": "Minaret of Isa ibn Maryam" },
+  { "name": "Arroyo de querit" },
+  { "name": "Saladin Mausoleum" },
+  { "name": "مسجد الخندق" },
+  {
+    "name": "Syrian Orthodox Archdiocese of Aleppo مطرانية حلب و توابعها للسريان الأرثوذكس"
+  },
+  { "name": "Al-Shaibani Church / كنيسة الشيباني" },
+  { "name": "Jesus Light of the World Church" },
+  { "name": "Mar Asia al-Hakim Church" },
+  { "name": "House of Joy" },
+  { "name": "كنيسة السيدة" },
+  { "name": "Mohammed al fatth" },
+  { "name": "St. Hagop Church" },
+  { "name": "كنيسة بيت آيل للارمن البروتستانت" },
+  { "name": "Saint Jolian Al Homs Monastery دير القديس اليان الحمصي" },
+  { "name": "Monastery of the Jesuit Fathers" },
+  { "name": "Forty Martyrs" },
+  { "name": "Um Al Zenar Church" },
+  { "name": "Archbishopric of Greek Orthodox" },
+  { "name": "كنيسة مار جرجس للسريان الأرثوذكس" },
+  { "name": "دير الآباء اليسوعيين" },
+  {
+    "name": "كنيسة الإتحاد المسيحي الإنجيلية الوطنية - يسوع نور العالم - مركز خدمة الأرمن"
+  },
+  { "name": "مطرانية الروم الأرثوذكس بحماة" },
+  { "name": "Hama Clock Tower" },
+  { "name": "Our Lady of the Annunciation Church" },
+  { "name": "Abu'l-Fida Mosque" },
+  { "name": "Hama castle" },
+  { "name": "Saint John Baptist Church" },
+  { "name": "Deir Ez-Zor Governorate" },
+  { "name": "جامع الفتح AL FTEH MASJED" },
+  { "name": "guest house -Raqqa" },
+  { "name": "Idlib Governorate" },
+  { "name": "كنيسة السيدة الأثرية طرطوس" },
+  { "name": "المختارعمر الشامي ابو فراس" },
+  { "name": "Angie . khoder" },
+  { "name": "كنيسة الاتحاد المسيحي الإنجيلية يسوع الراعي الصالح في السويداء" },
+  { "name": "السوايداء" },
+  { "name": "Museum of Palmyra" },
+  { "name": "Market Mosque" },
+  { "name": "Othman bin Affan Mosque" },
+  { "name": "Mosque of faith" },
+  { "name": "The Tetrapylon" },
+  { "name": "كنيسة الاشوريا" },
+  { "name": "Qamishli" },
+  { "name": "مسجد تل الياسطي صغير" },
+  { "name": "ملبوسات الصالح" },
+  { "name": "Iglesia de yabrud" },
+  { "name": "Cherubeem Monastery" },
+  { "name": "Patriarchal Monastery of St. George" },
+  { "name": "Arch" },
+  { "name": "Khan As'ad Pasha Al-Azem" },
+  { "name": "Villa Rose" },
+  { "name": "Aleppo castle" },
+  { "name": "Time Square ساحة الساعة" },
+  { "name": "Old Quarter" },
+  { "name": "سيباط القاضي" },
+  { "name": "دوار ابو محمد شيخ الشباب" },
+  { "name": "طاحونة الحصوية" },
+  { "name": "Ras el Basit" },
+  { "name": "شهداء اسكنتوري" },
+  { "name": "النميصيه ابو حمام دير الزور" },
+  { "name": "سور الرقة الاثري" },
+  { "name": "قصر البنات - الرقة" },
+  { "name": "السكن الشباي" },
+  { "name": "Idlib" },
+  { "name": "كنيسة فرسان الهيكل _ Knights Templar Church" },
+  { "name": "La Playa Beach" },
+  { "name": "مقبرة طرطوس الجديدة" },
+  { "name": "شاطئ غيث جوا السور" },
+  { "name": "Tower of Elahbel" },
+  { "name": "Temple of Nabu" },
+  { "name": "مقبرة محمقية" },
+  { "name": "دوار مطاحن مدينة منبج" },
+  { "name": "Shmemis" },
+  { "name": "Umayyad City Ruins" },
+  { "name": "Aleppo Citadel" },
+  { "name": "Safita" }
+]

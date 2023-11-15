@@ -1,12 +1,13 @@
 const mongoose=require('mongoose')
 const placeSchema=new mongoose.Schema({
     name:{type:String,required:true},
-    gpsCoordinates:{
-        longitude:{type:Number,required:true},
-        latitude:{type:Number,required:true}
+    photos:[mongoose.Schema.Types.Mixed],
+    location:{
+        lng:{type:Number,required:true},
+        lat:{type:Number,required:true}
     },
     reviews:[{
-        userId:{required:true,type:mongoose.SchemaTypes.ObjectId,ref:'userModel'},
+        userId:{required:true,type:mongoose.SchemaTypes.ObjectId,ref:'User'},
 
         rating:{
             type:Number,
@@ -18,4 +19,4 @@ const placeSchema=new mongoose.Schema({
     describtion:String,
     type:{type:String,required:true}
 })
-module.exports=mongoose.model('placeModel')
+module.exports=mongoose.model('Place',placeSchema)
