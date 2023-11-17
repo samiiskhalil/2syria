@@ -6,6 +6,7 @@ const placeSchema=new mongoose.Schema({
         lng:{type:Number,required:true},
         lat:{type:Number,required:true}
     },
+    avgRating:{type:Number,required:true,default:0},
     reviews:[{
         userId:{required:true,type:mongoose.SchemaTypes.ObjectId,ref:'User'},
 
@@ -16,7 +17,7 @@ const placeSchema=new mongoose.Schema({
         },
         review:String
     }],
-    describtion:String,
+    description:String,
     type:{type:String,required:true}
 })
 module.exports=mongoose.model('Place',placeSchema)

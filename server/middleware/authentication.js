@@ -6,9 +6,22 @@ class authenticationMiddleware{
     constructor(){
 
     }
+    static async validateToken(req,res,next){
+      try{
+         const token= await jwt.verify(req.headers['token'],process.env.JWT_SECRET)
+          req.token=token
+         return next()
+        }
+      catch(error){
+          console.log(error)
+          res.status(500).json({success:false,error:'failed to validate token'})
+      }
+  }
     static async checkCodeRequestFrequency(req,res,next){
       try{
         const {user}=req.scope
+        if(!user.accountVerificationCodes.length)
+          return next()
         const accountVerificationCode=user.accountVerificationCodes[user.accountVerificationCodes.length-1]
         function isBefore30SecondsAgo(date) {
           // Get the current date and time

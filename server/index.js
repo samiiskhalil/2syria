@@ -1,4 +1,6 @@
 const mongoose = require('mongoose');
+const Place = require('./models/placeModel'); // Import the Place model
+
 const axios=require('axios')
 const cors = require('cors');
 const userRouter=require('./routes/userRoutes')
@@ -12,8 +14,11 @@ await  mongoose.connect(process.env.DATABASE_URL, {
     useNewUrlParser: true,
     family:4,
     useUnifiedTopology: true,
-  }).catch((err)=>console.log(err))
-  console.log(`connected to database ${process.env.DATABASE_URL}`)
+  }).then(async()=>{
+    console.log(`connected to database ${process.env.DATABASE_URL}`)
+  }
+  ).catch((err)=>console.log(err))
+  
   app.use(cors({
     origin:'*'
   }))

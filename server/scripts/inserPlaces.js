@@ -3,7 +3,7 @@ const mongoose=require('mongoose')
 const fs=require('fs')
 mongoose.connect('mongodb://127.0.0.1/2syria').then(()=>{
 
-    let places=JSON.parse(fs.readFileSync('./places.json'))
+    let places=JSON.parse(fs.readFileSync('../data/places.json'))
     places=places.map(place=>({
         name:place.name,
         location:place.geometry.location,
@@ -11,8 +11,9 @@ mongoose.connect('mongodb://127.0.0.1/2syria').then(()=>{
     reference:place.reference,
     type:place.type,
     photos:place.photos,
-    describtion:'',
-    address:place.formatted_address
+    description:'',
+    address:place.formatted_address,
+    avgRating:0
 
 }))
 Place.insertMany(places).then(res=>console.log('done')).catch(err=>console.log(err))

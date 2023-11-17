@@ -1,9 +1,37 @@
-
 const User=require('../models/userModel.js')
+const axios = require('axios');
 class userMiddleware{
     constructor(){
 
     }
+  static async add_rated_place(placeId, user) {
+      try {
+          // Create a new rated place entry
+          const ratedPlace = {
+              date: new Date(),
+              place: placeId
+          };
+  
+          // Push the rated place into the placesReviewed array of the user
+          user.placesReviewed.push(ratedPlace);
+  
+          // Save the updated user document
+          const updatedUser = await user.save();
+  
+          return updatedUser;
+      } catch (error) {
+          throw error;
+      }
+  }
+  static async get_user_data(access_token) {
+      try {
+        const {data}=await axios.get(`https://www.googleapis.com/oauth2/v3/userinfo?access_token=${access_token}`)
+        console.log('data',data)    
+    } catch (error) {
+          throw error;
+      }
+  }
+  
     static async findUser(req,res,next){
         try{
             req.scope={}

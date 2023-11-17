@@ -16,15 +16,15 @@ const userSchema=new mongoose.Schema({
         verificationCode:Number,
         date:{
             type:Date,
-            default:Date.now
+            default:Date.now()
         }
         ,checked:{
             type:Boolean,
-            requried:true,
+            required:true,
             default:false
         }
     }]
     ,
-    placesRated:[{type:mongoose.SchemaTypes.ObjectId,ref:'placeModel'}]
+    placesReviewed:[{date:{type:Date,default:Date.now()},place:{type:mongoose.SchemaTypes.ObjectId,ref:'Place'},}]
 })
 module.exports=mongoose.model('User',userSchema)
